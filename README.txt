@@ -1,3 +1,5 @@
+To run the project, run the bat file.
+
 The program will prompt you for three things:
 
 1. Database connection. You will need to provide a database URL, and a user/password. 
